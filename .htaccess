@@ -1,0 +1,4 @@
+Options -Indexes
+
+ErrorDocument 403 "<h1>Accès refusé</h1><p>Vous tentez d'accéder à un dossier privé.</p>"
+
