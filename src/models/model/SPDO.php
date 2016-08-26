@@ -9,7 +9,7 @@ class SPDO
     // const DEFAULT_SQL_DTB = 'jeux';
     const DEFAULT_SQL_USER = 'u362629279_user';
     const DEFAULT_SQL_HOST = 'mysql.hostinger.fr';
-    const DEFAULT_SQL_PASS = 'b0b0president';
+    const DEFAULT_SQL_PASS = 'b0b0president';  // I am no longer in this host, no need to try to access it :)
     const DEFAULT_SQL_DTB = 'u362629279_bdd';
    
     private function __construct() 
